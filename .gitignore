@@ -1,0 +1,11 @@
+.dart_tool/
+build/
+*.iml
+.idea/
+.env
+.env.*
+node_modules/
+.next/
+local.properties
+key.properties
+*.jks
